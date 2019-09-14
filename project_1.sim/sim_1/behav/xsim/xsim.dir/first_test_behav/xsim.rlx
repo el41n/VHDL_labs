@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2812426480701283474  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 09b3a6d980cb48be8abce85bcba768ef --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot first_test_behav xil_defaultlib.first_test" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:07:38" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/first_test_behav/xsimk\"   \"xsim.dir/first_test_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/first_test_behav/obj/xsim_1.lnx64.o\" \"/home/elchin/Vivado/2018.2/lib/lnx64.o/librdi_simulator_kernel.so\"  \"/home/elchin/Vivado/2018.2/lib/lnx64.o/librdi_simbridge_kernel.so\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

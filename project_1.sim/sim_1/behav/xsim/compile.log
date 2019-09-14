@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Administrator/lab1/lab1.srcs/sources_1/new/first_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity first_test
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/elchin/project_1/project_1.srcs/sources_1/new/first.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity first
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/elchin/project_1/project_1.srcs/sources_1/new/first_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity first_test
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/elchin/project_1/project_1.srcs/sources_1/new/first.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity first
